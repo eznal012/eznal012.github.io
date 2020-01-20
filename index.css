@@ -2,14 +2,14 @@ body {
   background-color: maroon;
 }
 h1 {
-  color: blue;
+  color: green;
   font-family: verdana;
   font-size: 300%;
   text-align: center;
 }
 
 p {
-  color: red;
+  color: powderblue;
   border: 1px solid powderblue;
   padding: 30px;
 }
